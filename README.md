@@ -2,7 +2,7 @@
 
 
 
- text-to-speech app that guides the visually impaired (VIs) to their chosen exits in MTR Stations 
+ Text-to-speech app that guides the visually impaired (VIs) to their chosen exits in MTR Stations 
  
  
 Architected a mapping platform, by leveraging BFS, DFS, Dijkstra’s algorithm, and A* search algorithm, to provide personalized directions to VIs based on their step size, mode of
